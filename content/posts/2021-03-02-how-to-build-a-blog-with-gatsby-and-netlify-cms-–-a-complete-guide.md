@@ -398,6 +398,20 @@ And now, you are all done! You can now create your new posts from the comfortabl
 
 
 
+## Summary
+
+In this guide you have learned how to:
+
+* Create a Gatsby blog site
+* Added the Netlify CMS to your Gatsby site by creating and configuring files
+* Enable user authentication by activating Identity and Git Gateway
+* Access your site's CMS admin
+* Publish your first post powered by Gatsby and Netlify CMS
+
+
+
+
+
 > ### **Julian Battaglino** 
 >
 > Freelance front end developer
