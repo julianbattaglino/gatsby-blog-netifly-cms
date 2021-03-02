@@ -28,4 +28,4 @@ collections:
       - { label: 'Image', name: 'image', widget: 'image' }
       - { label: 'File', name: 'file', widget: 'file' }
       - { label: 'Select', name: 'select', widget: 'select', options: ['a', 'b', 'c'] }
-      - { label: 'Hidden', name: 'hidden', widget: 'hidden', default: 'hidden' }
+     
