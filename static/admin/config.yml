@@ -18,3 +18,14 @@ collections:
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
+      - { label: 'String', name: 'string', widget: 'string' }
+      - { label: 'Boolean', name: 'boolean', widget: 'boolean' }
+      - { label: 'Text', name: 'text', widget: 'text' }
+      - { label: 'Number', name: 'number', widget: 'number' }
+      - { label: 'Markdown', name: 'markdown', widget: 'markdown' }
+      - { label: 'Datetime', name: 'datetime', widget: 'datetime' }
+      - { label: 'Date', name: 'date', widget: 'date' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: 'File', name: 'file', widget: 'file' }
+      - { label: 'Select', name: 'select', widget: 'select', options: ['a', 'b', 'c'] }
+      - { label: 'Hidden', name: 'hidden', widget: 'hidden', default: 'hidden' }
