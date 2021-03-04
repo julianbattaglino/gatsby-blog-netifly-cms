@@ -2,7 +2,7 @@
 layout: blog
 title: How to Build a Blog with Gatsby and Netlify CMS – A Complete Guide
 date: 2021-03-02T22:40:29.097Z
-thumbnail: /images/uploads/5wdv8rm5ai0mb6qfcetq.jpg
+thumbnail: /images/uploads/me.png
 tags:
   - Gatsby.js
   - NetlifyCMS
