@@ -1,7 +1,7 @@
 <h1 align="center">
   Gatsby Personal Blog - Netlify CMS.
-  Using the Original Gatsby Theme @lekoarts/gatsby-theme-minimal-blog.
 </h1>
+## Using the Original Gatsby Theme @lekoarts/gatsby-theme-minimal-blog.
 
 Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting. Using the Gatsby Theme [`@lekoarts/gatsby-theme-minimal-blog`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog).
 
