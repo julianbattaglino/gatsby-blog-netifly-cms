@@ -1,22 +1,12 @@
 <h1 align="center">
-  Gatsby Starter: Minimal Blog
+  Gatsby Personal Blog - Netlify CMS.
+  Using the Original Gatsby Theme @lekoarts/gatsby-theme-minimal-blog.
 </h1>
-
-<p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Minimal Blog is released under the 0BSD license." />
-  </a>
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
-  </a>
-</p>
 
 Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting. Using the Gatsby Theme [`@lekoarts/gatsby-theme-minimal-blog`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog).
 
-[**Demo Website**](https://minimal-blog.lekoarts.de)
+[**Demo Website**](https://gatsby-blog-netifly-cms.netlify.app/)
 
-Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
 ## ✨ Features
 
@@ -38,7 +28,7 @@ Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes
 Use the Gatsby CLI to create a new site, specifying this project
 
 ```sh
-gatsby new project-name https://github.com/LekoArts/gatsby-starter-minimal-blog
+gatsby new project-name https://github.com/julianbattaglino/gatsby-blog-netifly-cms
 ```
 
 2. **Start developing.**
