@@ -6,7 +6,7 @@ thumbnail: /images/uploads/me.png
 tags:
   - Gatsby.js
   - NetlifyCMS
-image: /images/uploads/fondo.jpg
+image: /images/uploads/me.png
 color: ""
 ---
 **In this article, we are going to build a blog with Gatsby and Netlify CMS. You will learn how to install Gatsby on your computer and use it to quickly develop a super fast blog site.**
